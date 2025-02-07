@@ -2,4 +2,4 @@
 
 
 
-# Published as a conference paper at ICLR 2015
+- Published as a conference paper at ICLR 2015
