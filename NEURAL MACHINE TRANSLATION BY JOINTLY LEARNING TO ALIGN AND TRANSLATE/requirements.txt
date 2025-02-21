@@ -1,0 +1,10 @@
+torch==1.13.1
+torchtext==0.14.1
+pytorch-lightning==1.2.2
+spacy==3.4.4
+
+
+
+
+cd PaperReview/NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
+source venv/bin/activate
