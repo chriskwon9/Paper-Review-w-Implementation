@@ -1,5 +1,5 @@
 ## ❗️ Parallel Transformer (P-Transformer) 
-- 실습 데이터셋: multi30k
+- **실습 데이터셋**: multi30k
 - 프레임워크: Pytorch
 - 실행순서: python train.py -> python evaluate1.py
 - data.py: 데이터 전처리
