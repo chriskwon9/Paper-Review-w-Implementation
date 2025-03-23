@@ -1,7 +1,7 @@
 ## ❗️ Parallel Transformer (P-Transformer) 
 - **실습 데이터셋**: multi30k
-- 프레임워크: Pytorch
-- 실행순서: python train.py -> python evaluate1.py
+- **프레임워크**: Pytorch
+- **실행순서**: python train.py -> python evaluate1.py
 - data.py: 데이터 전처리
 - evaluate1.py: test셋에 대해 BLEU Score 계산
 - model.py: Original Transformer와 비교해서 수정된 모델 구현
